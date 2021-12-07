@@ -7,7 +7,7 @@ function App() {
   // console.log(movies);
   return (
     <div className="App">
-      <MovieList props="bob" />
+      <MovieList props="bobb" />
     </div>
   );
 }
